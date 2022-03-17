@@ -15,6 +15,14 @@ Colors used:
 # Ex. 2
 Create a webpage (`index.html`) and a css file (`style.css`) that resembles the following:
 
+![](./docs/ex2.png)
+
+Colors used:
+- white
+- gray
+- lightgray
+- burlywood
+
 # Ex. 3
 Create a webpage (`index.html`) and a css file (`style.css`) that resembles the following:
 
