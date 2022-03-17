@@ -1,5 +1,5 @@
 # HTML CSS
-Reference project to illustrate HTML & CSS.
+Reference project that illustrates HTML, CSS, Flexbox and Bootstrap.
 
 # Assignments
 [Assignments](./assignments.md)

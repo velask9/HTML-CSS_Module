@@ -8,11 +8,11 @@
 
 .flex-container-1 {
     background-color: red;
-    display: flex;
+    display: flex; 
     justify-content: first baseline;
     flex-wrap: wrap;
-    flex-direction: row;
-    padding: 0px;
+    flex-direction: row; /* default is row */
+    padding: 0px; /* WWTD */
  }
 
 .flex-item {
