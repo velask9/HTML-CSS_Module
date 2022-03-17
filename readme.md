@@ -49,7 +49,7 @@ Two important concepts:
 - Border: Actual border of the HTML element
 - Padding: inside of the HTML element
 
-### Selectors
+### CSS Selectors
 These CSS selectors are used to target HTML elements so that they can be styled:
 
 |Example|Description|
