@@ -39,9 +39,10 @@ HTML elements that could possibly be used by SEO:
 ```
 
 # CSS
-Two important concepts:
+Three important concepts:
 - Box Model
 - CSS Selectors
+- Specificity
 
 ### Box Model
 - DevTools >> Elements Tab >> Scroll all the way down & click on HTML elements on left
@@ -62,6 +63,11 @@ These CSS selectors are used to target HTML elements so that they can be styled:
 |`div > p {}`|Child (match specifically)|
 |`img[alt=check] {}`|Attribute|
 |`a:visited {}`|Psuedo|
+
+### Specificity
+Specificity is the means by which browsers decide which CSS property values are the most relevant to an element and, therefore, will be applied.  In other words, specificity determines what rule sets will be applied to a target element. ProTip: Avoid `!important`
+[Specificity](https://www.w3schools.com/css/css_specificity.asp)
+[CSS Specificity Explained](https://youtu.be/c0kfcP_nD9E)
 
 # How to Learn
 What Will This Do (WWTD)?  This is a game you can play on your own to help you learn style and layout.  Try to visualize what will happen BEFORE you make a change to something.  
