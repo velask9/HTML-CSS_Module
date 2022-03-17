@@ -77,7 +77,7 @@ Specificity is the means by which browsers decide which CSS property values are 
 ---
 # Flexbox
 [Flexbox Crash Course 2022 ](https://youtu.be/3YW65K6LcIA)
-The key concept to understand when using flexbox is that there are two classes associated with "flexing", the flex container itself, and the actual item(s) inside the container.
+The key concept to understand when using flexbox is that there are two classes associated with "flexing", the flex container itself, and the actual item(s) inside the container.  Also, the definitions of main axis and cross axis must be undertood.
 
 #### Flexbox Container Props
 Default direction is left-to-right (row), this is the main axis, the cross axis is 90 degrees from th main axis.
