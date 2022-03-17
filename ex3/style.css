@@ -22,6 +22,8 @@ footer {
     padding-left: 42px;
 }
 
+/* Top */
+
 #section-top {
     padding-top: 200px;
     background-color: #ffcdd2;
@@ -54,13 +56,35 @@ footer {
 }
 
 
-
-
-
+/* Bottom */
 
 #section-bottom {
+    padding-top: 200px;
     background-color: #2941ab;
     color: #1ed760;
+    padding-bottom: 200px;
 }
 
+#section-bottom table tr #title {
+    font-weight: bolder;
+    font-size: 70px;
+}
 
+#section-bottom table tr #message {
+    font-weight: bolder;
+    font-size: 30px;
+}
+
+#section-bottom table tr td button {
+    background-color:  #1ed760;
+    color: white;
+    border-radius: 30px;
+    padding: 10px;
+    outline: none;
+    font-size: smaller;
+    font-weight: bolder;
+}
+
+#section-bottom table tr td {
+    padding:30px;
+}
