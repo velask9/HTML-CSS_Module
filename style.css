@@ -2,8 +2,9 @@
 * { 
     margin: 0;
     padding: 0;
-    font-size: large;
-    font-family:Arial, Helvetica, sans-serif
+    font-size: large; /* WWTD */
+    line-height: 30px; /* WWTD */
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 /* General */
@@ -35,6 +36,7 @@ h2 {
 
 .section {
     background-color: lightgray; 
+    margin: 10px; /* WWTD */
 }
 
 /* Descendant Match */

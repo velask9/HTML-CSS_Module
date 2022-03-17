@@ -1,6 +1,9 @@
 # HTML CSS
 Reference project to illustrate HTML & CSS.
 
+# Assignments
+[Assignments](./assignments.md)
+
 # Getting Started
 - Clone this repo
 - Install Live Server extension (VSCode)
