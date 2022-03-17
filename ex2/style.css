@@ -1,9 +1,52 @@
 * { 
-    max-width: 960px;
+ 
     margin: auto;
     padding: 0;
     font-size: large;
     line-height: 30px;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: Arial, Helvetica, sans-serif;    
+    background-color: gray;
 }
 
+#nav {
+    background-color: white
+}
+
+footer {
+    background-color: gray;
+    color: white;
+}
+
+main {
+    background-color: darkblue
+}
+
+#form {
+    background-color: lightgray
+}
+
+#form-table {
+    background-color: lightgray;
+    padding: 50px;
+}
+
+#form-table tr td {
+    margin: 50px;
+    padding: 5px;    
+    background-color: lightgray;
+}
+
+#form-table button {
+    color: black;
+    border-radius: 8px;
+    background-color: burlywood;
+    padding: 8px;
+    border: 1px solid gray;
+}
+
+#form-table input {
+    border-radius: 8px;
+    padding: 8px;
+    border: 1px solid gray;
+    background-color: white;
+}
