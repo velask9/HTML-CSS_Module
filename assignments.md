@@ -21,7 +21,7 @@ Colors used:
 - white
 - gray
 - lightgray
-- burlywood
+- #0072e1 (blue)
 
 The logo image is located in `images/logo.png`.
 
