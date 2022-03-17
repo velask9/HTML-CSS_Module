@@ -74,6 +74,12 @@ Specificity is the means by which browsers decide which CSS property values are 
 [Specificity](https://www.w3schools.com/css/css_specificity.asp)
 [CSS Specificity Explained](https://youtu.be/c0kfcP_nD9E)
 
+---
+# Flexbox
+[Flexbox Crash Course 2022 ](https://youtu.be/3YW65K6LcIA)
+The key concept to understand when using flexbox is that there are two classes associated with "flexing", the flex container itself, and the actual item(s) inside the container.
+
+
 # How to Learn
 What Will This Do (WWTD)?  This is a game you can play on your own to help you learn style and layout.  Try to visualize what will happen BEFORE you make a change to something.  
 
