@@ -54,18 +54,20 @@ These CSS selectors are used to target HTML elements so that they can be styled:
 
 |Example|Description|
 |-----------|-----------|
+|`* {}`|Global|
 |`body {}`|General|
 |`#menu {}`|ID|
 |`.bookTitle {}`|Class|
 |`div p {}`|Descendant (match any level)|
-|`div > p {}`|Child (match specifically) |
-|`img[alt=spacer] {}`|Attribute|
+|`div > p {}`|Child (match specifically)|
+|`img[alt=check] {}`|Attribute|
 |`a:visited {}`|Psuedo|
-|`* {}`|All|
-
 
 # How to Learn
-What Will This Do (WWTD)?  This is a game you can play on your own to help you learn frontend development.  Try to visualize what will happen before you make a change to something.  Example:
+What Will This Do (WWTD)?  This is a game you can play on your own to help you learn style and layout.  Try to visualize what will happen BEFORE you make a change to something.  
+
+Example:
+How will the display change when 10px is changed to 20px?
 ```
 body {
     padding: 10px; /* WWTD */

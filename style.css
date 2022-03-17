@@ -2,6 +2,8 @@
 * { 
     margin: 0;
     padding: 0;
+    font-size: large;
+    font-family:Arial, Helvetica, sans-serif
 }
 
 /* General */
@@ -19,9 +21,39 @@ h2 {
     padding: 20px;
 }
 
+#footer {
+    background-color: lightgray;
+    padding: 20px;
+    /* margin: 20px; */ /* WWTD */
+}
+
 /* Class */
 .selling-point {
     background-color: lightcoral;
     margin: 20px;
 }
 
+.section {
+    background-color: lightgray;
+}
+
+/* Descendant Match */
+body main div div div {
+    background-color: lightblue;
+}
+
+/* Child Match */
+body > main > div {
+    background-color: lightgoldenrodyellow;
+}
+
+/* Psuedo */
+a:hover {
+    background-color: hotpink;
+}
+a:link {
+    color: red;
+}
+a:visited {
+    color: green;
+}
