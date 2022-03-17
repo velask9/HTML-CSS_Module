@@ -23,6 +23,8 @@ Colors used:
 - lightgray
 - burlywood
 
+The logo image is located in `images/logo.png`.
+
 # Ex. 3
 Create a webpage (`index.html`) and a css file (`style.css`) that resembles the following:
 
