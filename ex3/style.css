@@ -16,10 +16,18 @@ nav {
     padding-left: 42px;
 }
 
+nav img {
+    cursor: pointer;
+}
+
 footer {
     background-color: black;
     padding-top: 13px;
     padding-left: 42px;
+}
+
+footer img {
+    cursor: pointer;
 }
 
 /* Top */
@@ -53,6 +61,8 @@ footer {
     outline: none;
     font-size: smaller;
     font-weight: bolder;
+    border: 0;
+    cursor: pointer;
 }
 
 
@@ -83,6 +93,8 @@ footer {
     outline: none;
     font-size: smaller;
     font-weight: bolder;
+    border: 0;
+    cursor: pointer;
 }
 
 #section-bottom table tr td {
