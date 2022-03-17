@@ -1,0 +1,185 @@
+/*****************************************************
+ * Target HTML elements ("global styles")
+ ****************************************************/
+
+body {
+    background-color: #f4f4f4;
+    color: #555555; /* text */
+    font-family: Arial, Helvetica, sans-serif; /* In order of availability */  
+    font-size: 18px;
+    font-weight: normal;
+    line-height: 1.6em;
+    margin: 0;
+}
+
+h1 {
+    color: green;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+a:hover {
+    color: red;
+}
+
+a:active {
+    color: green;
+}
+
+/*****************************************************
+ * Target classes (more specific).
+ ****************************************************/
+.container {
+    width: 80%; /* Use percents when dealing with containers */
+    margin: auto;
+}
+
+.button {
+    background-color: #333;
+    color: #fff;
+    padding: 10px 15px;
+    border: none;
+}
+
+.button:hover {
+    background: red;
+    color: #fff;
+}
+
+.clr {
+    clear: both;
+}
+
+.box-1 {
+    background-color: gray;
+    color: white;
+    /* border-right: 5px red solid; */
+    border: 5px red solid;
+    border-bottom-width: 10px;
+    border-top-style: dotted;
+
+    padding: 20px;
+
+    margin-top: 20px;
+}
+
+.box-1 h1 { /* Target all the h1 elements in the box-1 class */
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    text-decoration: underline;
+    color: red;
+}
+
+.box-2 {
+    border: 3px dotted #ccc;
+    padding: 20 px;
+    margin: 20px 0;
+}
+
+.box-2 h1 { /* Target all the h1 elements in the box-2 class */
+    color: black;
+}
+
+.categories {
+    border: 1px #ccc solid;
+    padding: 10px;
+    border-radius: 15px;
+}
+
+.categories h2 {
+    text-align: center;
+}
+
+.categories ul {
+    padding: 0;
+    list-style: square;
+    padding-left: 20px;
+}
+
+.categories li {
+    padding-bottom: 8px;
+    border-bottom: dotted 1px #333;
+    /* list-style-image: url('/images/check.png'); */
+}
+
+.my-form {
+    padding: 20px;
+}
+
+.my-form .form-group {
+    padding-bottom: 15px;
+}
+
+.my-form label {
+    display: block;
+}
+
+.my-form input[type="text"],
+.my-form textarea { 
+    padding: 8px;
+    width: 100%;
+}
+
+.block {
+    float:left;
+    width: 33.3%;
+    border: 1px solid #ccc;
+    padding: 10px;
+    box-sizing: border-box; /* check out flex box */
+}
+
+.p-box {
+    width: 800px;
+    height: 500px;
+    border: 1px solid;
+    margin-top: 30px;
+    position: relative;
+    background-image: url(/images/background.jpg);
+}
+
+.p-box h1 {
+    position: absolute;
+    top: 40px;
+    left: 300px;
+}
+
+.fix-me {
+    position: fixed; /* does not move whatsover */
+    top: 400px;
+}
+
+.my-list li:first-child { /* pseudo class */
+    background: red;
+}   
+
+.my-list li:last-child {
+    background: blue;
+}   
+
+.my-list li:nth-child(5) {
+    background: yellow;
+}  
+
+/*****************************************************
+ * Target IDs (most specific)
+ ****************************************************/
+#navbar h1 {
+    color: black;
+    font-size: 40px;
+}
+
+#main-block {
+    float: left;
+    width: 70%;
+    background-color: lightskyblue;
+}
+
+#sidebar {
+    float:right;
+    width: 30%;
+    background-color: lightpink;
+    box-sizing: border-box;
+}
