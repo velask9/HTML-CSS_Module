@@ -4,7 +4,7 @@ Reference project to illustrate HTML & CSS.
 # Getting Started
 - Clone this repo
 - Install Live Server extension (VSCode)
-- Right click on index.html and "Open with Live Server"
+- Right click on `index.html` and "Open with Live Server"
 
 # Notes
 HTML HyperText Markup Language is used to create Web pages and tells the browser how to display them. The purpose of CSS is to provide Web developers with a standard way to define, apply, and manage sets of style characteristics.  In other words, HTML is the data and CSS is the style.  Keeping these tasks separate is an architectual style known as the separation of concerns.
@@ -16,15 +16,15 @@ HTML HyperText Markup Language is used to create Web pages and tells the browser
 [HTML Semantic Elements](https://www.w3schools.com/html/html5_semantic_elements.asp)
 A semantic element clearly describes its meaning to both the browser and the developer. Examples of non-semantic elements (tells nothing about the content):
 ``` 
-    <div>
-    <span>
+<div>
+<span>
 ```
 
 Examples of semantic elements (Clearly defines its content): 
 ```
-    <form>
-    <table>
-    <article>
+<form>
+<table>
+<article>
 ```
 
 HTML elements that could possibly be used by SEO:
