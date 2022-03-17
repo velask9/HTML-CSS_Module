@@ -34,7 +34,7 @@ h2 {
 }
 
 .section {
-    background-color: lightgray;
+    background-color: lightgray; 
 }
 
 /* Descendant Match */
@@ -42,9 +42,14 @@ body main div div div {
     background-color: lightblue;
 }
 
-/* Child Match */
-body > main > div {
+/* Child Match ???????  */
+body > main > div > div > div {
     background-color: lightgoldenrodyellow;
+}
+
+/* Attribute Match */
+img[alt=check] {
+    width: 20px;
 }
 
 /* Psuedo */
