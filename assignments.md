@@ -5,7 +5,7 @@ Create a webpage (`index.html`) and a css file (`style.css`) that resembles the 
 
 ![](./docs/ex1.png)
 
-Colors used:
+Colors:
 - lightgray
 - lightblue
 - lightcoral
@@ -17,7 +17,7 @@ Create a webpage (`index.html`) and a css file (`style.css`) that resembles the 
 
 ![](./docs/ex2.png)
 
-Colors used:
+Colors:
 - white
 - gray
 - lightgray
@@ -27,6 +27,17 @@ The logo image is located in `images/logo.png`.
 
 # Ex. 3
 Create a webpage (`index.html`) and a css file (`style.css`) that resembles the following:
+
+![](./docs/ex3.png)
+
+Colors:
+- #ffcdd2
+- #d83519
+- #2941ab
+- #1ed760
+
+The logo image is located in `images/spotify-logo.png`.
+
 
 # Ex. 4
 Create a webpage (`index.html`) and a css file (`style.css`) that resembles the following:
