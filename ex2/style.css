@@ -33,9 +33,9 @@ footer {
 }
 
 #form-table button {
-    color: black;
+    color: white;
     border-radius: 8px;
-    background-color: burlywood;
+    background-color: #0072e1;
     padding: 8px;
     border: 1px solid gray;
 }
