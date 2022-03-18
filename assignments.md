@@ -52,3 +52,4 @@ Create a webpage (`index.html`) and a css file (`style.css`) using Bootstrap & F
 
 ![](./docs/ex5.2.png)
 
+The bird image is located in `images/bird.png`.
