@@ -58,7 +58,7 @@ These CSS selectors are used to target HTML elements so that they can be styled:
 
 |Example|Description|
 |-----------|-----------|
-|`* {}`|Global|
+|`* {}`|Universal Selector|
 |`body {}`|General|
 |`#menu {}`|ID|
 |`.bookTitle {}`|Class|
@@ -87,7 +87,7 @@ Default direction is left-to-right (row), this is the main axis, the cross axis 
 - `flex-wrap`: Used to specify if the flex container should wrap flex items
 - `flex-flow`: Shorthand for flex-direction and flex-wrap
 - `justify-content`: {first baseline|center|space-between} along the main axis
-- `align-items`: Aligns the flexbox items across the CROSS axis
+- `align-items`: {flex-start|center|flex-end} Aligns the flexbox items across the CROSS axis
 - `align-content`: Applies alignment accross the CROSS axis for items that wrap multiple lines (does nothing for single line flex containers) stretch is default
 - `gap`: Space between flexbox items
 

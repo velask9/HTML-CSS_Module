@@ -13,6 +13,8 @@
     flex-wrap: wrap;
     flex-direction: row; /* default is row */
     padding: 0px; /* WWTD */
+    /* height: 500px; */  /* WWTD */
+    /* align-items: center; */ /* WWTD */
  }
 
 .flex-item {
