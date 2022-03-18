@@ -43,12 +43,14 @@ Create a webpage (`index.html`) and a css file (`style.css`) using Flexbox that 
 
 ![](./docs/ex4.1.png)
 
+
 ![](./docs/ex4.2.png)
 
 # Ex. 5
 Create a webpage (`index.html`) and a css file (`style.css`) using Bootstrap & Flexbox to create a responsive mobile web experience that closely resembles the following:
 
 ![](./docs/ex5.1.png)
+
 
 ![](./docs/ex5.2.png)
 
