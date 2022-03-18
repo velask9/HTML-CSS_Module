@@ -87,6 +87,7 @@ ProTip: Do not abuse: `!important`
 ---
 
 # Flexbox
+- [PluralSight](https://app.pluralsight.com/library/courses/modern-web-layout-flexbox-css-grid/table-of-contents)
 - [Flexbox Crash Course 2022 ](https://youtu.be/3YW65K6LcIA)
 - [Helper Page](flex-index.html)
 
@@ -149,4 +150,4 @@ ProTip: To view the width of the browser ensure that the Dev Tools console is op
 - [Common CSS Properties](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Properties_Reference)
 - [HTML and CSS Tutorial](https://youtu.be/D-h8L5hgW-w)
 - [Types of Web Architectures](https://youtu.be/Qms4k6y7OgI)
-
+- [Positioning](https://app.pluralsight.com/library/courses/css-positioning-1834/table-of-contents)
