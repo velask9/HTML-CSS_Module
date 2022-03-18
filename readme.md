@@ -85,7 +85,7 @@ These properties ONLY apply to the flexbox container. Default direction is left-
 
 - `display`: {flex|inline-flex} Inline shrink wraps flexbox items
 - `flex-direction`: {column|row} Row is the default
-- `flex-wrap`: Used to specify if the flex container should wrap flex items
+- `flex-wrap`: Used to specify if the flex container should wrap flex items and not squish items (squish is default)
 - `flex-flow`: Shorthand for flex-direction and flex-wrap
 - `justify-content`: {first baseline|center|space-between} along the main axis
 - `align-items`: {flex-start|center|flex-end} Aligns the flexbox items across the CROSS axis
@@ -97,9 +97,14 @@ These properties ONLY apply to the flex item(s):
 - `order`: The order in which to render the flex item
 - `flex-grow`: How much an item will GROW relative to the rest of the flexible items inside the same container
 - `flex-shrink`: How much an item will SHRINK relative to the rest of the flexible items inside the same container
-- `flex-basis`: The initial length of a flexible item
+- `flex-basis`: The initial length of a flexible item 
 - `flex`: Shorthand for: `flex-grow` `flex-shrink` `flex-basis`
 - `align-self`: Individually change [alignment](https://getbootstrap.com/docs/5.1/utilities/flex/#align-self) for flexbox items on the cross axis, including stretch
+
+---
+
+#### Bootstrap Grid
+TODO...
 
 
 # How to Learn

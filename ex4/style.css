@@ -1,6 +1,7 @@
 * { 
+    background-color: rgb(253, 225, 179);
     max-width: 960px;
-    margin: auto;
+    margin: 0 auto;
     padding: 0;
     font-size: large;
     line-height: 30px;

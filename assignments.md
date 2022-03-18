@@ -42,7 +42,11 @@ The logo image is located in `images/spotify-logo.png`.
 # Ex. 4
 Create a webpage (`index.html`) and a css file (`style.css`) that resembles the following:
 
+Flex box
+
 # Ex. 5
+
+Bootstrap
 
 Create a webpage (`index.html`) and a css file (`style.css`) that resembles the following:
 

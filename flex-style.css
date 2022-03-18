@@ -10,7 +10,7 @@
     background-color: red;
     display: flex; 
     justify-content: first baseline;
-    flex-wrap: wrap;
+    /* flex-wrap: wrap; */  /* WWTD */
     flex-direction: row; /* default is row */
     padding: 0px; /* WWTD */
     /* height: 500px; */  /* WWTD */
@@ -23,12 +23,22 @@
     align-items: center;
     margin: 10px; 
     height: 100px;
-    width: 100px;
+    flex-basis: 100px;
     background-color: green;
     border-radius: 15px;
     border: 1px solid white;
 }
 
+/* 
+.flex-item:nth-child(1) {
+    flex-basis: 200px;
+    min-width: 200px;
+} 
+*/
+
 .flex-item:nth-child(2) {
     background-color: purple;
+    flex-basis: 200px;
+    flex-grow: 0;
+    min-width: 100px;
 }
