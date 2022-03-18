@@ -49,10 +49,11 @@ HTML elements that could possibly be used by SEO:
 ```
 
 # CSS
-Three important concepts:
+Four important concepts:
 - Box Model
 - CSS Selectors
 - Specificity
+- Positioning
 
 ### Box Model
 - DevTools >> Elements Tab >> Scroll all the way down & click on HTML elements on left
@@ -83,6 +84,13 @@ Specificity is the means by which browsers decide which CSS property values are 
 - [CSS Specificity Explained](https://youtu.be/c0kfcP_nD9E)
 
 ProTip: Do not abuse: `!important` 
+
+### Positioning
+- Fixed
+- Absolute
+- Relative
+- Static, Inherit and Z-index
+- Floating Elements
 
 ---
 
