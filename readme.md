@@ -80,9 +80,12 @@ These CSS selectors are used to target HTML elements so that they can be styled:
 NOTE: Targeting specific HTML elements in a React App is easier because we can leverage Sassy CSS (Sass) and CSS modules.
 
 ### Specificity
-Specificity is the means by which browsers decide which CSS property values are the most relevant to an element and, therefore, will be applied.  In other words, specificity determines what rule sets will be applied to a target element. ProTip: Avoid `!important`
-[Specificity](https://www.w3schools.com/css/css_specificity.asp)
-[CSS Specificity Explained](https://youtu.be/c0kfcP_nD9E)
+Specificity is the means by which browsers decide which CSS property values are the most relevant to an element and, therefore, will be applied.  In other words, specificity determines what rule sets will be applied to a target element. 
+
+- [Specificity](https://www.w3schools.com/css/css_specificity.asp)
+- [CSS Specificity Explained](https://youtu.be/c0kfcP_nD9E)
+
+ProTip: Do not abuse: `!important` 
 
 ---
 
