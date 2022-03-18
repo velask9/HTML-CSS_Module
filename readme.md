@@ -145,3 +145,5 @@ ProTip: To view the width of the browser ensure that the Dev Tools console is op
 - [Getting Started with Bootstrap 5](https://youtu.be/1nxSE0R27Gg)
 - [Common CSS Properties](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Properties_Reference)
 - [HTML and CSS Tutorial](https://youtu.be/D-h8L5hgW-w)
+- [Types of Web Architectures](https://youtu.be/Qms4k6y7OgI)
+
