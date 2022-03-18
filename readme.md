@@ -86,6 +86,7 @@ Specificity is the means by which browsers decide which CSS property values are 
 ProTip: Do not abuse: `!important` 
 
 ### Positioning
+- [PluralSight](https://app.pluralsight.com/library/courses/css-positioning-1834/table-of-contents)
 - Fixed
 - Absolute
 - Relative
