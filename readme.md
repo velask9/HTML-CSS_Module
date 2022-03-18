@@ -1,12 +1,9 @@
 # HTML CSS
-Reference project that illustrates HTML, CSS, Flexbox and Bootstrap.
-
-# Assignments
-[Assignments](./assignments.md)
+Reference project that illustrates HTML, CSS, Flexbox and Bootstrap. Assignments are located [here](./assignments.md).
 
 # Getting Started
 - Clone this repo
-- Install Live Server extension (VSCode)
+- Install VSCode extension: Live Server
 - Right click on `index.html` and "Open with Live Server"
 
 # How to Learn
