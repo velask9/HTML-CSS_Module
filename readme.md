@@ -88,7 +88,7 @@ ProTip: Do not abuse: `!important`
 
 # Flexbox
 - [Flexbox Crash Course 2022 ](https://youtu.be/3YW65K6LcIA)
-- [Helper Page](`./flex-index.html`)
+- [Helper Page]('flex-index.html')
 
 The key concept to understand when using flexbox is that there are two classes associated with "flexing", the flex container itself, and the actual item(s) inside the container.  There are properties ONLY associated with the flex container and ONLY associated with the flex item(s).  The definitions of "main axis" and "cross axis" must be undertood.  Flexbox works with block elements.
 
@@ -118,7 +118,7 @@ These properties ONLY apply to the flex item(s):
 # Bootstrap 
 The Bootstrap grid system (rows & columns) contains 12 column units.  Bootstrap stacks divs verticall only if one or more of the responsive breakpoints (class infix) have been hit.
 
-- [Helper Page](`./bs-index.html`)
+- [Helper Page]('bs-index.html')
 
 To include Bootstrap in your webpage, add the following references to the `<head>` tag:
 ```
