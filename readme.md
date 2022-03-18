@@ -9,6 +9,16 @@ Reference project that illustrates HTML, CSS, Flexbox and Bootstrap.
 - Install Live Server extension (VSCode)
 - Right click on `index.html` and "Open with Live Server"
 
+# How to Learn
+What Will This Do (WWTD)?  This is a game you can play on your own to help you learn style and layout.  Try to visualize what will happen BEFORE you make a change to something.  For example:
+
+How will the display change when 10px is changed to 20px?
+```
+body {
+    padding: 10px; /* WWTD */
+}
+```
+
 # Notes
 HTML HyperText Markup Language is used to create Web pages and tells the browser how to display them. The purpose of CSS is to provide Web developers with a standard way to define, apply, and manage sets of style characteristics.  In other words, HTML is the data and CSS is the style.  Keeping these tasks separate is an architectual style known as the separation of concerns.
 
@@ -118,17 +128,7 @@ A responsive breakpoint is "hit" when the browser is expanded to the width speci
 |Extra Large      |xl           |>=1200px   |
 |Extra extra large|xxl          |>=1400px   |
 
-To view the width of the browser ensure that the Dev Tools console is open (ctl+shift+i) and observe the dimensions in the upper right hand corner of the browser window.
-
-# How to Learn
-What Will This Do (WWTD)?  This is a game you can play on your own to help you learn style and layout.  Try to visualize what will happen BEFORE you make a change to something.  For example:
-
-How will the display change when 10px is changed to 20px?
-```
-body {
-    padding: 10px; /* WWTD */
-}
-```
+ProTip: To view the width of the browser ensure that the Dev Tools console is open (Ctl+Shift+i) and observe the dimensions in the upper right hand corner of the browser window.
 
 # Links
 - [Bootstrap 5 Grid System Tutorial](https://youtu.be/DZKf9l42WCo)
