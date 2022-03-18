@@ -83,15 +83,17 @@ Specificity is the means by which browsers decide which CSS property values are 
 - [Specificity](https://www.w3schools.com/css/css_specificity.asp)
 - [CSS Specificity Explained](https://youtu.be/c0kfcP_nD9E)
 
-ProTip: Do not abuse: `!important` 
-
 ### Positioning
+Block, inline, Table and Positioning are old techniques that do not provide the flexibility that we need in today's world.
+
 - [PluralSight](https://app.pluralsight.com/library/courses/css-positioning-1834/table-of-contents)
-- Fixed
-- Absolute
-- Relative
-- Static, Inherit and Z-index
-- Floating Elements
+
+- Fixed: Permanently located with respect to browser window, does not scroll bar (taken out of document flow).
+- Absolute: Like Fixed positioning, but responds to scroll bar (taken out of document flow).
+- Relative: Relative to its original position in the document flow.
+- Static: Disables positioning values, does not move the element (default value for all elements).
+- Inherit: Inherit the position from the parent container element.
+- Z-index: Higher numbers stack elements on top of each other.
 
 ---
 
