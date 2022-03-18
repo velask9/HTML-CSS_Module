@@ -38,11 +38,12 @@ Colors:
 
 The logo image is located in `images/spotify-logo.png`.
 
-
 # Ex. 4
-Create a webpage (`index.html`) and a css file (`style.css`) that resembles the following:
+Create a webpage (`index.html`) and a css file (`style.css`) that resembles the following using Flexbox.  Ensure that the webpage is responsive (responds well to resizing):
 
-Flex box
+![](./docs/ex4.1.png)
+
+![](./docs/ex4.2.png)
 
 # Ex. 5
 
