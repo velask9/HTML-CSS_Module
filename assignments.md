@@ -1,7 +1,7 @@
 # HTML & CSS Assignments
 
 # Ex. 1 
-Create a webpage (`index.html`) and a css file (`style.css`) that resembles the following:
+Create a webpage (`index.html`) and a css file (`style.css`) that closely resembles the following:
 
 ![](./docs/ex1.png)
 
@@ -13,7 +13,7 @@ Colors:
 - lightseagreen
 
 # Ex. 2
-Create a webpage (`index.html`) and a css file (`style.css`) that resembles the following:
+Create a webpage (`index.html`) and a css file (`style.css`) that closely resembles the following:
 
 ![](./docs/ex2.png)
 
@@ -26,7 +26,7 @@ Colors:
 The logo image is located in `images/logo.png`.
 
 # Ex. 3
-Create a webpage (`index.html`) and a css file (`style.css`) that resembles the following:
+Create a webpage (`index.html`) and a css file (`style.css`) that closely resembles the following:
 
 ![](./docs/ex3.png)
 
@@ -39,15 +39,16 @@ Colors:
 The logo image is located in `images/spotify-logo.png`.
 
 # Ex. 4
-Create a webpage (`index.html`) and a css file (`style.css`) that resembles the following using Flexbox.  Ensure that the webpage is responsive (responds well to resizing):
+Create a webpage (`index.html`) and a css file (`style.css`) using Flexbox that closely resembles the following.  Ensure that the webpage is responsive (responds well to resizing):
 
 ![](./docs/ex4.1.png)
 
 ![](./docs/ex4.2.png)
 
 # Ex. 5
+Create a webpage (`index.html`) and a css file (`style.css`) using Bootstrap & Flexbox to create a responsive mobile web experience that closely resembles the following:
 
-Bootstrap
+![](./docs/ex5.1.png)
 
-Create a webpage (`index.html`) and a css file (`style.css`) that resembles the following:
+![](./docs/ex5.2.png)
 
