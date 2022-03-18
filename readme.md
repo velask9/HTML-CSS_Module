@@ -116,6 +116,13 @@ These properties ONLY apply to the flex item(s):
 #### Bootstrap Rows & Columns
 The Bootstrap grid system contains 12 column units.  Bootstrap stacks divs verticall only if one of the responsive breakpoints (class infix) have been hit.
 
+To include Bootstrap in your webpage, add the following references to the `<head>` tag:
+```
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
+```
+
 # Responsive Breakpoints
 A responsive breakpoint is "hit" when the browser is expanded to the width specified in this table:
 
