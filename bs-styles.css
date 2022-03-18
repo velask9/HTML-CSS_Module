@@ -3,3 +3,23 @@
     padding: 0;
 }
 
+.item {
+    background-color: red;
+    text-align: center;
+}
+
+/* Show bootstrap columns */
+[class*="col"] {
+    padding: 1rem;
+    background-color: #33b5e5;
+    border: 2px solid white;
+    color: white;
+}
+
+/* Show bootstrap containers */
+[class*="con"] {
+  padding: 1rem;
+  background-color: #8633e5;
+  border: 2px solid white;
+  color: white;
+}
