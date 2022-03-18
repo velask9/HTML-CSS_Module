@@ -49,9 +49,9 @@ Create a webpage (`index.html`) and a css file (`style.css`) using Flexbox that 
 # Ex. 5
 Create a webpage (`index.html`) and a css file (`style.css`) using Bootstrap & Flexbox to create a responsive mobile web experience that closely resembles the following:
 
-![](./docs/ex5.1.png)
-
-
 ![](./docs/ex5.2.png)
+
+
+![](./docs/ex5.1.png)
 
 The bird image is located in `images/bird.png`.
