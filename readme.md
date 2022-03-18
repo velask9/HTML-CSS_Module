@@ -50,7 +50,7 @@ Three important concepts:
 ### Box Model
 - DevTools >> Elements Tab >> Scroll all the way down & click on HTML elements on left
 - Margin: Outside of the HTML element
-- Border: Actual border of the HTML element
+- Border: Actual border of the HTML element (the fence?)
 - Padding: inside of the HTML element
 
 ### CSS Selectors
@@ -59,13 +59,13 @@ These CSS selectors are used to target HTML elements so that they can be styled:
 |Example|Description|
 |-----------|-----------|
 |`* {}`|Universal Selector|
-|`body {}`|General|
-|`#menu {}`|ID|
-|`.bookTitle {}`|Class|
-|`div p {}`|Descendant (match any level)|
-|`div > p {}`|Child (match specifically)|
-|`img[alt=check] {}`|Attribute|
-|`a:visited {}`|Psuedo|
+|`body {}`|General Selector|
+|`#menu {}`|ID Selector|
+|`.bookTitle {}`|Class Selector|
+|`div p {}`|Descendant Selector (match any level)|
+|`div > p {}`|Child Selector (match specifically)|
+|`img[alt=check] {}`|Attribute Selector|
+|`a:visited {}`|Psuedo Selector|
 
 NOTE: Targeting specific HTML elements in a React App is easier because we can leverage Sassy CSS (Sass) and CSS modules.
 
