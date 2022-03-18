@@ -75,12 +75,13 @@ Specificity is the means by which browsers decide which CSS property values are 
 [CSS Specificity Explained](https://youtu.be/c0kfcP_nD9E)
 
 ---
+
 # Flexbox
 [Flexbox Crash Course 2022 ](https://youtu.be/3YW65K6LcIA)
-The key concept to understand when using flexbox is that there are two classes associated with "flexing", the flex container itself, and the actual item(s) inside the container.  Also, the definitions of main axis and cross axis must be undertood.
+The key concept to understand when using flexbox is that there are two classes associated with "flexing", the flex container itself, and the actual item(s) inside the container.  There are properties associated with the flex container and the flex item(s).  The definitions of "main axis" and "cross axis" must be undertood.
 
 #### Flexbox Container Props
-Default direction is left-to-right (row), this is the main axis, the cross axis is 90 degrees from th main axis.
+These properties ONLY apply to the flexbox container. Default direction is left-to-right (row), this is the main axis, the cross axis is 90 degrees from th main axis.
 
 - `display`: {flex|inline-flex} Inline shrink wraps flexbox items
 - `flex-direction`: {column|row} Row is the default
@@ -92,6 +93,7 @@ Default direction is left-to-right (row), this is the main axis, the cross axis 
 - `gap`: Space between flexbox items
 
 #### Flexbox Item Props
+These properties ONLY apply to the flex item(s):
 - `order`: The order in which to render the flex item
 - `flex-grow`: How much an item will GROW relative to the rest of the flexible items inside the same container
 - `flex-shrink`: How much an item will SHRINK relative to the rest of the flexible items inside the same container
@@ -100,11 +102,9 @@ Default direction is left-to-right (row), this is the main axis, the cross axis 
 - `align-self`: Individually change [alignment](https://getbootstrap.com/docs/5.1/utilities/flex/#align-self) for flexbox items on the cross axis, including stretch
 
 
-
 # How to Learn
-What Will This Do (WWTD)?  This is a game you can play on your own to help you learn style and layout.  Try to visualize what will happen BEFORE you make a change to something.  
+What Will This Do (WWTD)?  This is a game you can play on your own to help you learn style and layout.  Try to visualize what will happen BEFORE you make a change to something.  For example:
 
-Example:
 How will the display change when 10px is changed to 20px?
 ```
 body {
