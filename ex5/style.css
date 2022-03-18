@@ -72,10 +72,16 @@
 
 /* Show bootstrap columns */
 /* [class*="col"] {
-    background-color: white;
-}  */
+    padding: 1rem;
+    background-color: #33b5e5;
+    border: 2px solid white;
+    color: white;
+} */
 
 /* Show bootstrap containers */
 /* [class*="con"] {
-    background-color: white;
-}  */
+  padding: 1rem;
+  background-color: #8633e5;
+  border: 2px solid white;
+  color: white;
+} */
