@@ -93,7 +93,7 @@ These CSS selectors are used to target HTML elements so that they can be styled:
 |`img[alt=check] {}`|Attribute Selector                   |
 |`a:visited {}`     |Psuedo Selector                      |
 
-NOTE: Targeting specific HTML elements in a React App is easier because we can leverage Sassy CSS (Sass) and CSS modules.
+Targeting specific HTML elements in a React App is easier because we can leverage Sassy CSS (Sass) and CSS modules.
 
 ### Specificity
 Specificity is the means by which browsers decide which CSS property values are the most relevant to an element and, therefore, will be applied.  In other words, specificity determines what rule sets will be applied to a target element. 
@@ -110,7 +110,7 @@ Note: Block, Inline, Table and Positioning are old techniques that do not provid
 
 ---
 
-The key concept to understand when using flexbox is that there are two classes associated with "flexing", the flex container itself, and the actual item(s) inside the container.  There are properties ONLY associated with the flex container and ONLY associated with the flex item(s).  The definitions of "main axis" and "cross axis" must be undertood.  Flexbox works with block elements.
+The key concept to understand when using flexbox is that there are two classes associated with "flexing", the flex container itself, and the actual item(s) inside the container.  There are properties ONLY associated with the flex container and ONLY associated with the flex item(s).  The definitions of "main axis" and "cross axis" also must be understood.  Flexbox works with block elements.
 
 #### Flexbox Container Props
 These properties ONLY apply to the flexbox container. Default direction is left-to-right (row), this is the main axis, the cross axis is 90 degrees from th main axis.
