@@ -29,6 +29,7 @@ Reference project that illustrates HTML, CSS, Flexbox and Bootstrap. Assignments
 - [Bootstrap Utilities](https://getbootstrap.com/docs/4.0/utilities/borders/)
 - [Common CSS Properties](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Properties_Reference)
 - [Specificity](https://www.w3schools.com/css/css_specificity.asp)
+- [HTML Semantic Elements](https://www.w3schools.com/html/html5_semantic_elements.asp)
 
 # How to Learn
 What Will This Do (WWTD)?  This is a game you can play on your own to help you learn style and layout.  Try to visualize what will happen BEFORE you make a change to something.  For example:
@@ -44,7 +45,6 @@ body {
 HTML HyperText Markup Language is used to create Web pages and tells the browser how to display them. The purpose of CSS is to provide Web developers with a standard way to define, apply, and manage sets of style characteristics.  In other words, HTML is the data and CSS is the style.  Keeping these tasks separate is an architectual style known as the separation of concerns.
 
 ### HTML Semantic Elements
-[HTML Semantic Elements](https://www.w3schools.com/html/html5_semantic_elements.asp)
 A semantic element clearly describes its meaning to both the browser and the developer. Examples of non-semantic elements (tells nothing about the content):
 ``` 
 <div>
@@ -82,16 +82,16 @@ Four important concepts:
 ### CSS Selectors
 These CSS selectors are used to target HTML elements so that they can be styled:
 
-|Example|Description|
-|-----------|-----------|
-|`* {}`|Universal Selector|
-|`body {}`|General Selector|
-|`#menu {}`|ID Selector|
-|`.bookTitle {}`|Class Selector|
-|`div p {}`|Descendant Selector (match any level)|
-|`div > p {}`|Child Selector (match specifically)|
-|`img[alt=check] {}`|Attribute Selector|
-|`a:visited {}`|Psuedo Selector|
+|Example            |Description                          |
+|-------------------|-------------------------------------|
+|`* {}`             |Universal Selector                   |
+|`body {}`          |General Selector                     |
+|`#menu {}`         |ID Selector                          |
+|`.bookTitle {}`    |Class Selector                       |
+|`div p {}`         |Descendant Selector (match any level)|
+|`div > p {}`       |Child Selector (match specifically)  |
+|`img[alt=check] {}`|Attribute Selector                   |
+|`a:visited {}`     |Psuedo Selector                      |
 
 NOTE: Targeting specific HTML elements in a React App is easier because we can leverage Sassy CSS (Sass) and CSS modules.
 
