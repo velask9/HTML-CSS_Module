@@ -11,15 +11,15 @@ Illustrates how to use HTML, CSS, Flexbox and Bootstrap. Assignments are located
 - Right click on `index.html` and "Open with Live Server"
 
 # Videos
-- [Types of Web Architectures 10m](https://youtu.be/Qms4k6y7OgI)
-- [PluralSight HTML Fundamentals 2h 20m](https://app.pluralsight.com/course-player?clipId=ecbf549b-e454-4d5a-9872-367356892b14)
-- [HTML and CSS Tutorial 2h 17m](https://youtu.be/D-h8L5hgW-w)
-- [CSS Specificity Explained 13m](https://youtu.be/c0kfcP_nD9E)
-- [CSS Positioning 1hr](https://app.pluralsight.com/library/courses/css-positioning-1834/table-of-contents)
-- [Modern Web Layout with Flexbox and CSS Grid 1h 10m](https://app.pluralsight.com/library/courses/modern-web-layout-flexbox-css-grid/table-of-contents)
-- [Flexbox Crash Course 2022 46m ](https://youtu.be/3YW65K6LcIA)
-- [Bootstrap 5 Grid System Tutorial 15m](https://youtu.be/DZKf9l42WCo)
-- [Getting Started with Bootstrap 5 1h](https://youtu.be/1nxSE0R27Gg)
+- [Types of Web Architectures (10m)](https://youtu.be/Qms4k6y7OgI)
+- [PluralSight HTML Fundamentals (2h 20m)](https://app.pluralsight.com/course-player?clipId=ecbf549b-e454-4d5a-9872-367356892b14)
+- [HTML and CSS Tutorial (2h 17m)](https://youtu.be/D-h8L5hgW-w)
+- [CSS Specificity Explained (13m)](https://youtu.be/c0kfcP_nD9E)
+- [CSS Positioning (1hr)](https://app.pluralsight.com/library/courses/css-positioning-1834/table-of-contents)
+- [Modern Web Layout with Flexbox and CSS Grid (1h 10m)](https://app.pluralsight.com/library/courses/modern-web-layout-flexbox-css-grid/table-of-contents)
+- [Flexbox Crash Course 2022 (46m)](https://youtu.be/3YW65K6LcIA)
+- [Bootstrap 5 Grid System Tutorial (15m)](https://youtu.be/DZKf9l42WCo)
+- [Getting Started with Bootstrap 5 (1h)](https://youtu.be/1nxSE0R27Gg)
 
 # Links
 - [Flexbox helper page](flex-index.html)
