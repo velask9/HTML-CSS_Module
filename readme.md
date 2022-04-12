@@ -1,5 +1,5 @@
 # HTML & CSS
-Reference project that illustrates HTML, CSS, Flexbox and Bootstrap. Assignments are located [here](./assignments.md).
+Illustrates how to use HTML, CSS, Flexbox and Bootstrap. Assignments are located [here](./assignments.md).
 
 # Getting Started
 - Install VSCode 
@@ -31,8 +31,8 @@ Reference project that illustrates HTML, CSS, Flexbox and Bootstrap. Assignments
 - [Specificity](https://www.w3schools.com/css/css_specificity.asp)
 - [HTML Semantic Elements](https://www.w3schools.com/html/html5_semantic_elements.asp)
 
-# How to Learn
-What Will This Do (WWTD)?  This is a game you can play on your own to help you learn style and layout.  Try to visualize what will happen BEFORE you make a change to something.  For example:
+# What Will This Do?
+This is a game you can play on your own to help you learn style and layout.  Try to visualize what will happen BEFORE you make a change to something.  For example:
 
 How will the display change when 10px is changed to 20px?
 ```
@@ -158,4 +158,3 @@ A responsive breakpoint is "hit" when the browser is expanded to the width speci
 |Extra extra large|xxl          |>=1400px   |
 
 ProTip: To view the width of the browser ensure that the Dev Tools console is open (Ctl+Shift+i) and observe the dimensions in the upper right hand corner of the browser window.
-
