@@ -1,4 +1,4 @@
-# HTML CSS
+# HTML & CSS
 Reference project that illustrates HTML, CSS, Flexbox and Bootstrap. Assignments are located [here](./assignments.md).
 
 # Getting Started
