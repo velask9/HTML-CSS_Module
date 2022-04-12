@@ -2,9 +2,33 @@
 Reference project that illustrates HTML, CSS, Flexbox and Bootstrap. Assignments are located [here](./assignments.md).
 
 # Getting Started
-- Clone this repo
+- Install VSCode 
 - Install VSCode extension: Live Server
+- Clone this repo:
+  - Make a directory on your computer
+  - CD into this directory
+  - Execute: `git clone git@github.com:mburolla/html-css.git` 
 - Right click on `index.html` and "Open with Live Server"
+
+# Videos
+- [PluralSight HTML Fundamentals 2h 20m](https://app.pluralsight.com/course-player?clipId=ecbf549b-e454-4d5a-9872-367356892b14)
+- [CSS Positioning 1hr](https://app.pluralsight.com/library/courses/css-positioning-1834/table-of-contents)
+- [Modern Web Layout with Flexbox and CSS Grid 1h 10m](https://app.pluralsight.com/library/courses/modern-web-layout-flexbox-css-grid/table-of-contents)
+- [Flexbox Crash Course 2022 46m ](https://youtu.be/3YW65K6LcIA)
+- [Bootstrap 5 Grid System Tutorial 15m](https://youtu.be/DZKf9l42WCo)
+- [Getting Started with Bootstrap 5 1h](https://youtu.be/1nxSE0R27Gg)
+- [HTML and CSS Tutorial 2h 17m](https://youtu.be/D-h8L5hgW-w)
+- [Types of Web Architectures 10m](https://youtu.be/Qms4k6y7OgI)
+- [CSS Specificity Explained 13m](https://youtu.be/c0kfcP_nD9E)
+
+# Links
+- [Flexbox helper page](flex-index.html)
+- [Bootstrap helper page](bs-index.html)
+- [W3Schools](https://www.w3schools.com/)
+- [Bootstrap flex](https://getbootstrap.com/docs/4.0/utilities/flex/)
+- [Bootstrap Utilities](https://getbootstrap.com/docs/4.0/utilities/borders/)
+- [Common CSS Properties](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Properties_Reference)
+- [Specificity](https://www.w3schools.com/css/css_specificity.asp)
 
 # How to Learn
 What Will This Do (WWTD)?  This is a game you can play on your own to help you learn style and layout.  Try to visualize what will happen BEFORE you make a change to something.  For example:
@@ -18,12 +42,6 @@ body {
 
 # Notes
 HTML HyperText Markup Language is used to create Web pages and tells the browser how to display them. The purpose of CSS is to provide Web developers with a standard way to define, apply, and manage sets of style characteristics.  In other words, HTML is the data and CSS is the style.  Keeping these tasks separate is an architectual style known as the separation of concerns.
-
-# Resources
-- [W3Schools](https://www.w3schools.com/)
-
-# HTML
-- [PluralSigth HTML Fundamentals](https://app.pluralsight.com/course-player?clipId=ecbf549b-e454-4d5a-9872-367356892b14)
 
 ### HTML Semantic Elements
 [HTML Semantic Elements](https://www.w3schools.com/html/html5_semantic_elements.asp)
@@ -80,13 +98,8 @@ NOTE: Targeting specific HTML elements in a React App is easier because we can l
 ### Specificity
 Specificity is the means by which browsers decide which CSS property values are the most relevant to an element and, therefore, will be applied.  In other words, specificity determines what rule sets will be applied to a target element. 
 
-- [Specificity](https://www.w3schools.com/css/css_specificity.asp)
-- [CSS Specificity Explained](https://youtu.be/c0kfcP_nD9E)
-
 ### Positioning
 Note: Block, Inline, Table and Positioning are old techniques that do not provide the flexibility that we need in today's world.
-
-- [PluralSight](https://app.pluralsight.com/library/courses/css-positioning-1834/table-of-contents)
 
 - Fixed: Permanently located with respect to browser window, does not scroll bar (taken out of document flow).
 - Absolute: Like Fixed positioning, but responds to scroll bar (taken out of document flow).
@@ -96,11 +109,6 @@ Note: Block, Inline, Table and Positioning are old techniques that do not provid
 - Z-index: Higher numbers stack elements on top of each other.
 
 ---
-
-# Flexbox
-- [PluralSight](https://app.pluralsight.com/library/courses/modern-web-layout-flexbox-css-grid/table-of-contents)
-- [Flexbox Crash Course 2022 ](https://youtu.be/3YW65K6LcIA)
-- [Helper Page](flex-index.html)
 
 The key concept to understand when using flexbox is that there are two classes associated with "flexing", the flex container itself, and the actual item(s) inside the container.  There are properties ONLY associated with the flex container and ONLY associated with the flex item(s).  The definitions of "main axis" and "cross axis" must be undertood.  Flexbox works with block elements.
 
@@ -130,8 +138,6 @@ These properties ONLY apply to the flex item(s):
 # Bootstrap 
 The Bootstrap grid system (rows & columns) contains 12 column units.  Bootstrap stacks divs verticall only if one or more of the responsive breakpoints (class infix) have been hit.
 
-- [Helper Page](bs-index.html)
-
 To include Bootstrap in your webpage, add the following references to the `<head>` tag:
 ```
 <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
@@ -153,12 +159,3 @@ A responsive breakpoint is "hit" when the browser is expanded to the width speci
 
 ProTip: To view the width of the browser ensure that the Dev Tools console is open (Ctl+Shift+i) and observe the dimensions in the upper right hand corner of the browser window.
 
-# Links
-- [Bootstrap 5 Grid System Tutorial](https://youtu.be/DZKf9l42WCo)
-- [Bootstrap flex](https://getbootstrap.com/docs/4.0/utilities/flex/)
-- [Bootstrap Utilities](https://getbootstrap.com/docs/4.0/utilities/borders/)
-- [Getting Started with Bootstrap 5](https://youtu.be/1nxSE0R27Gg)
-- [Common CSS Properties](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Properties_Reference)
-- [HTML and CSS Tutorial](https://youtu.be/D-h8L5hgW-w)
-- [Types of Web Architectures](https://youtu.be/Qms4k6y7OgI)
-- [Positioning](https://app.pluralsight.com/library/courses/css-positioning-1834/table-of-contents)
