@@ -1,5 +1,5 @@
 # HTML & CSS
-Illustrates how to use HTML, CSS, Flexbox and Bootstrap. Assignments are located [here](./assignments.md).
+Assignment repo that illustrates how to use HTML, CSS, Flexbox and Bootstrap. Assignments are located [here](./assignments.md).
 
 # Getting Started
 - Install VSCode 
