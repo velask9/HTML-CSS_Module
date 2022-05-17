@@ -22,6 +22,8 @@ Assignment repo that illustrates how to use HTML, CSS, Flexbox and Bootstrap. As
 - [Getting Started with Bootstrap 5 (1h)](https://youtu.be/1nxSE0R27Gg)
 
 # Links
+- [W3 Schools](https://www.w3schools.com/html/default.asp)
+- [HTML Tags](https://www.w3schools.com/tags/default.asp)
 - [Flexbox helper page](flex-index.html)
 - [Bootstrap helper page](bs-index.html)
 - [W3Schools](https://www.w3schools.com/)
