@@ -98,7 +98,7 @@ These are common CSS selectors are used to target HTML elements so that they can
 |`img[alt=check] {}`|Attribute Selector                   |
 |`a:visited {}`     |Psuedo Selector                      |
 
-Targeting specific HTML elements in a React App is easier because we can leverage Sassy CSS (Sass) and CSS modules.
+NOTE: Sassy CSS (SaSS) supports nested CSS rulesets which makes it easier to target HTML elements.
 
 [All selectors](https://www.w3schools.com/cssref/css_selectors.asp)
 
