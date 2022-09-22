@@ -69,12 +69,13 @@ HTML elements that could possibly be used by SEO:
 ```
 
 # CSS
-Five important concepts:
+Six important concepts:
 - Box Model
 - CSS Selectors
 - Specificity
 - Positioning
 - Units
+- Display
 
 ### Box Model
 - DevTools >> Elements Tab >> Scroll all the way down & click on HTML elements on left
@@ -103,7 +104,7 @@ NOTE: Sassy CSS (SaSS) supports nested CSS rulesets which makes it easier to tar
 [All selectors](https://www.w3schools.com/cssref/css_selectors.asp)
 
 ### Specificity
-Specificity is the means by which browsers decide which CSS property values are the most relevant to an element and, therefore, will be applied.  In other words, specificity determines what rule sets will be applied to a target element. 
+Specificity is the means by which browsers decide which CSS property values are the most relevant to an element and, therefore, will be applied.  Specificity determines what rule sets will be applied to a target element. Check out the [Specificity Calculator](https://specificity.keegan.st/).
 
 ### Positioning
 Note: Block, Inline, Table and Positioning are old techniques that do not provide the flexibility that we need in today's world.
@@ -121,11 +122,21 @@ Common Units
 - %
 - [All Units](https://www.w3schools.com/cssref/css_units.asp)
 
+### Display
+By default, our browsers display items in block mode
+
+```
+display: block;
+```
+
+This stacks elements vertically in blocks which span the entire width of the browser.
+We can change this in our style sheet to `inline-block`, which stacks items horizontally.
+
+- [HTML Blocks](https://www.w3schools.com/html/html_blocks.asp)
+
 ---
 
 The key concept to understand when using flexbox is that there are two classes associated with "flexing", the flex container itself, and the actual item(s) inside the container.  There are properties ONLY associated with the flex container and ONLY associated with the flex item(s).  The definitions of "main axis" and "cross axis" also must be understood.  Flexbox works with block elements.
-
-
 
 
 #### Flexbox Container Props
