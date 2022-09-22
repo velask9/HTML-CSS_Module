@@ -117,10 +117,10 @@ Note: Block, Inline, Table and Positioning are old techniques that do not provid
 - Z-index: Higher numbers stack elements on top of each other.
 
 ### Units
-Common Units
-- px
+Common Units:
+- px (96 pixels equals one inch)
 - %
-- [All Units](https://www.w3schools.com/cssref/css_units.asp)
+[All Units](https://www.w3schools.com/cssref/css_units.asp)
 
 ### Display
 By default, our browsers display items in block mode
