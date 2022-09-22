@@ -82,6 +82,8 @@ Five important concepts:
 - Border: Actual border of the HTML element (the fence?)
 - Padding: inside of the HTML element
 
+![](./docs/box-model.png)
+
 ### CSS Selectors
 These are common CSS selectors are used to target HTML elements so that they can be styled:
 
