@@ -7,14 +7,14 @@
 }
 
 .flex-container-1 {
-    background-color: red;
     display: flex; 
+    background-color: red;
     justify-content: first baseline;
     /* flex-wrap: wrap; */  /* WWTD */
     flex-direction: row; /* default is row */
     padding: 0px; /* WWTD */
-    /* height: 500px; */  /* WWTD */
-    /* align-items: center; */ /* WWTD */
+    /* height: 500px;  */ /* WWTD */
+    /* align-items:center; */  /* WWTD */
  }
 
 .flex-item {
@@ -27,6 +27,7 @@
     background-color: green;
     border-radius: 15px;
     border: 1px solid white;
+    padding: 10px;
 }
 
 /* 
@@ -36,9 +37,10 @@
 } 
 */
 
-.flex-item:nth-child(2) {
+.flex-item:nth-child(3) {
     background-color: purple;
     flex-basis: 200px;
     flex-grow: 0;
     min-width: 100px;
+    align-items: flex-end;
 }
