@@ -69,11 +69,12 @@ HTML elements that could possibly be used by SEO:
 ```
 
 # CSS
-Four important concepts:
+Five important concepts:
 - Box Model
 - CSS Selectors
 - Specificity
 - Positioning
+- Units
 
 ### Box Model
 - DevTools >> Elements Tab >> Scroll all the way down & click on HTML elements on left
@@ -112,15 +113,17 @@ Note: Block, Inline, Table and Positioning are old techniques that do not provid
 - Inherit: Inherit the position from the parent container element.
 - Z-index: Higher numbers stack elements on top of each other.
 
+### Units
+Common Units
+- px
+- %
+- [All Units](https://www.w3schools.com/cssref/css_units.asp)
+
 ---
 
 The key concept to understand when using flexbox is that there are two classes associated with "flexing", the flex container itself, and the actual item(s) inside the container.  There are properties ONLY associated with the flex container and ONLY associated with the flex item(s).  The definitions of "main axis" and "cross axis" also must be understood.  Flexbox works with block elements.
 
-### CSS Units
-Common Units
-- px
-- %
-[All Units](https://www.w3schools.com/cssref/css_units.asp)
+
 
 
 #### Flexbox Container Props
