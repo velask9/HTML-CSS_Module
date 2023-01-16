@@ -1,0 +1,14 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+div p {
+    background-color: red;
+}
+
+
+div > div > div > p {
+    background-color: green;
+}
+

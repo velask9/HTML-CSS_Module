@@ -10,7 +10,7 @@
     display: flex; 
     background-color: red;
     justify-content: first baseline;
-    /* flex-wrap: wrap; */  /* WWTD */
+    /* flex-wrap: wrap;    /* WWTD */
     flex-direction: row; /* default is row */
     padding: 0px; /* WWTD */
     /* height: 500px;  */ /* WWTD */
@@ -37,10 +37,10 @@
 } 
 */
 
-.flex-item:nth-child(3) {
+/* .flex-item:nth-child(3) {
     background-color: purple;
     flex-basis: 200px;
     flex-grow: 0;
     min-width: 100px;
     align-items: flex-end;
-}
+} */
