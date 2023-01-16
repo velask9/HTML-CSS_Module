@@ -1,4 +1,16 @@
 * {
-    background-color: gray;
+    margin: 0px;
+    padding: 0px;
 }
 
+div {
+    font-size: 20px;
+}
+
+@media screen and (max-width: 400px) {
+   /* Change the font size if the screen is less than 400 px */
+   div {
+       font-size: 30px;
+       background-color: red;
+   }
+} 
