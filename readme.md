@@ -4,11 +4,11 @@ Illustrates how to use HTML, CSS, Flexbox and Bootstrap. Assignments are located
 # Getting Started
 - Install VSCode 
 - Install VSCode extension: Live Server
-- Clone this repo:
-  - Fork this repo to your Github account.
+- Fork this repo to your Github account.
+- Clone the forked repo:
   - Make a directory on your computer
   - CD into this directory
-  - Execute: `git clone git@github.com:mburolla/html-css.git` 
+  - Execute: `git clone git@github.com:<Your_username>/html-css.git` 
 - Right click on `index.html` and "Open with Live Server"
 
 # Videos
