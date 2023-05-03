@@ -1,4 +1,5 @@
 # HTML & CSS Assignments
+Have a fun
 
 # Ex. 1 
 Create a webpage (`index.html`) and a css file (`style.css`) that closely resembles the following:
